@@ -1,0 +1,1 @@
+This is the sage code verifying the claim in Section 4 of the paper "Triple intersection for algebraic curves on the real torus" by Danilo Avaro
